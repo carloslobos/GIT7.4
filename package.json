@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/carloslobos/GIT7.4/issues"
   },
-  "homepage": "https://github.com/carloslobos/GIT7.4#readme"
+  "homepage": "https://github.com/carloslobos/GIT7.4#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
 }
