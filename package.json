@@ -19,5 +19,9 @@
   "homepage": "https://github.com/carloslobos/GIT7.4#readme",
   "devDependencies": {
     "browser-sync": "^2.26.7"
+  },
+  "dependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "nu-html-checker": "^0.1.0"
   }
 }
