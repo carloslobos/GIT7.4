@@ -1,26 +1,27 @@
 {
-  "name": "GIT7.4",
-  "version": "1.0.0",
-  "description": "https://carloslobos.github.io/GIT7.4/",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/carloslobos/GIT7.4.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/carloslobos/GIT7.4/issues"
-  },
-  "homepage": "https://github.com/carloslobos/GIT7.4#readme",
-  "devDependencies": {
-    "autoprefixer-cli": "^1.0.0",
-    "browser-sync": "^2.26.7",
-    "nu-html-checker": "^0.1.0"
-  },
-  "dependencies": {}
+    "name": "GIT7.4",
+    "version": "1.0.0",
+    "description": "https://carloslobos.github.io/GIT7.4/",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/carloslobos/GIT7.4.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/carloslobos/GIT7.4/issues"
+    },
+    "homepage": "https://github.com/carloslobos/GIT7.4#readme",
+    "devDependencies": {
+        "autoprefixer-cli": "^1.0.0",
+        "browser-sync": "^2.26.7",
+        "nu-html-checker": "^0.1.0"
+    },
+    "dependencies": {}
 }
+scr
