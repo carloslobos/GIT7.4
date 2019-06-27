@@ -4,7 +4,11 @@
     "description": "https://carloslobos.github.io/GIT7.4/",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "watch:browsersync": "node_modules/.bin/browser-sync start --server --files " * .css " " * .html "",
+        "build:clean": "GIT7.4/*.css",
+        "build:sass": "node-sass --output-style compact -o css sass",
+        "watch:sassprefixer": "onchange -d 100 style.css -- autoprefixer-cli style.css"
     },
     "repository": {
         "type": "git",
@@ -24,4 +28,3 @@
     },
     "dependencies": {}
 }
-scr
